@@ -1,11 +1,16 @@
-html{
-  box-sizing: border-box;
+html {
+    box-sizing: border-box;
 }
 
-*, *:before, *:after{
-  box-sizing: inherit;
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
 }
 
+.site-container {
+  max-width: 1000px;
+}
 body {
     margin: 0;
     padding: 0;
