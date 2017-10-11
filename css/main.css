@@ -49,7 +49,7 @@ a:hover {
 }
 
 .container {
-    width: 1000px;
+    /*width: 1000px;*/
     margin: 0px auto;
 }
 
@@ -207,7 +207,7 @@ a:hover {
 /* Page */
 
 #page {
-    width: 1000px;
+    /*width: 1000px;*/
     margin: 0 auto;
     padding: 30px 0px;
 }
@@ -382,7 +382,7 @@ a:hover {
 
 #footer-content {
     overflow: hidden;
-    width: 1000px;
+    /*width: 1000px;*/
     margin: 0px auto;
     color: #D6E2F0;
 }
@@ -502,7 +502,7 @@ a:hover {
 
 #banner {
     margin: 0px auto;
-    width: 1000px;
+  /*  width: 1000px; */
     height: 340px;
     background: url(../img/img03.png) no-repeat left bottom;
 }
