@@ -34,14 +34,9 @@ p, ul, ol {
     line-height: 180%;
 }
 
-ul, ol {
-}
 
 a {
     color: #5E5E5E;
-}
-
-a:hover {
 }
 
 #wrapper {
@@ -76,8 +71,6 @@ a:hover {
     color: #FFFFFF;
 }
 
-#logo h1, #logo p {
-}
 
 #logo h1 {
     line-height: 120px;
@@ -107,53 +100,6 @@ a:hover {
     border: none;
     background: none;
     text-decoration: none;
-    color: #000000;
-}
-
-/* Splash */
-
-#splash {
-    width: 960px;
-    height: 300px;
-    margin: 0px auto;
-}
-
-/* Search */
-
-#search {
-    float: right;
-    width: 280px;
-    height: 60px;
-    padding: 20px 0px 0px 0px;
-}
-
-#search form {
-    height: 41px;
-    margin: 0;
-    padding: 10px 0 0 20px;
-}
-
-#search fieldset {
-    margin: 0;
-    padding: 0;
-    border: none;
-}
-
-#search-text {
-    width: 170px;
-    padding: 6px 5px 2px 5px;
-    border: 1px solid #E7EBED;
-    background: #FFFFFF;
-    text-transform: lowercase;
-    font: normal 11px Arial, Helvetica, sans-serif;
-    color: #5D781D;
-}
-
-#search-submit {
-    width: 50px;
-    height: 22px;
-    border: none;
-    background: #B9B9B9;
     color: #000000;
 }
 
@@ -201,9 +147,6 @@ a:hover {
     color: #FFFFFF;
 }
 
-#menu .current_page_item a {
-}
-
 /* Page */
 
 #page {
@@ -214,12 +157,12 @@ a:hover {
 
 /* Content */
 
-#content {
+/*#content {
     float: right;
     width: 660px;
     padding: 0px 0px 0px 0px;
 }
-
+*/
 .post {
     overflow: hidden;
     margin-bottom: 40px;
@@ -254,8 +197,6 @@ a:hover {
     float: right;
 }
 
-.post .meta a {
-}
 
 .post .entry {
     padding: 0px 0px 40px 0px;
@@ -357,27 +298,6 @@ a:hover {
     text-decoration: underline;
 }
 
-/* Calendar */
-
-#calendar {
-}
-
-#calendar_wrap {
-    padding: 20px;
-}
-
-#calendar table {
-    width: 100%;
-}
-
-#calendar tbody td {
-    text-align: center;
-}
-
-#calendar #next {
-    text-align: right;
-}
-
 /* Three Column Footer Content */
 
 #footer-content {
@@ -420,9 +340,6 @@ a:hover {
 #footer-content #fbox3 {
     float: right;
     width: 300px;
-}
-
-#footer-content a {
 }
 
 #column1 {
@@ -505,9 +422,6 @@ a:hover {
   /*  width: 1000px; */
     height: 340px;
     background: url(../img/img03.png) no-repeat left bottom;
-}
-
-#banner .content {
 }
 
 
