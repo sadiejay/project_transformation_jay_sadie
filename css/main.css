@@ -64,7 +64,6 @@ a {
 /* Logo */
 
 #logo {
-    float: left;
     width: 300px;
     margin: 0;
     padding: 0;
@@ -106,7 +105,6 @@ a {
 /* Menu */
 
 #menu {
-    float: right;
     width: 500px;
     height: 90px;
     margin: 0 auto;
@@ -114,7 +112,6 @@ a {
 }
 
 #menu ul {
-    float: right;
     margin: 0;
     padding: 20px 0px 0px 0px;
     list-style: none;
@@ -122,7 +119,6 @@ a {
 }
 
 #menu li {
-    float: left;
 }
 
 #menu a {
@@ -158,7 +154,6 @@ a {
 /* Content */
 
 /*#content {
-    float: right;
     width: 660px;
     padding: 0px 0px 0px 0px;
 }
@@ -190,11 +185,9 @@ a {
 }
 
 .post .meta .date {
-    float: left;
 }
 
 .post .meta .posted {
-    float: right;
 }
 
 
@@ -210,7 +203,6 @@ a {
 
 .more {
     display: block;
-    float: left;
     width: 88px;
     padding: 5px 5px;
     margin-right: 10px;
@@ -222,7 +214,6 @@ a {
 
 .comments {
     display: block;
-    float: left;
     width: 88px;
     padding: 5px 5px;
     background: #222222;
@@ -234,7 +225,6 @@ a {
 /* Sidebar */
 
 #sidebar {
-    float: left;
     width: 270px;
     margin: 0px;
     padding: 30px 0px 0px 0px;
@@ -333,28 +323,23 @@ a {
 }
 
 #footer-content #fbox2 {
-    float: left;
     width: 300px;
 }
 
 #footer-content #fbox3 {
-    float: right;
     width: 300px;
 }
 
 #column1 {
-    float: left;
     width: 290px;
     margin-right: 30px;
 }
 
 #column2 {
-    float: left;
     width: 280px;
 }
 
 #column3 {
-    float: right;
     width: 260px;
 }
 
@@ -391,7 +376,6 @@ a {
 }
 
 #marketing .text1 {
-    float: left;
     margin: 0px;
     padding: 0px;
     letter-spacing: -2px;
@@ -401,7 +385,6 @@ a {
 }
 
 #marketing .text2 {
-    float: right;
 }
 
 #marketing .text2 a {
