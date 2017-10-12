@@ -417,3 +417,11 @@ a {
 .list-style1 a {
     color: #7F7F7F;
 }
+
+
+media all and (min-width: 630px) {
+    nav {
+        display: inline-block;
+        width: 50%;
+}
+}
