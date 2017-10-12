@@ -94,19 +94,6 @@ a {
     text-shadow: 1px 1px 0px rgba(0,0,0,.2);
 }
 
-#logo p {
-    margin: 0;
-    padding: 0px 0 0 0px;
-    letter-spacing: -1px;
-    font: normal 18px Georgia, "Times New Roman", Times, serif;
-    font-style: italic;
-    color: #8E8E8E;
-}
-
-#logo p a {
-    color: #8E8E8E;
-}
-
 #logo a {
     border: none;
     background: none;
