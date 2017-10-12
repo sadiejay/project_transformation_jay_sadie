@@ -374,8 +374,8 @@ a {
 
 
 @media all and (min-width: 630px) {
-    nav {
-        display: inline-block;
-        width: 50%;
+    #logo h1, .wrapper {
+        width: 90%;
+        margin: auto;
     }
 }
